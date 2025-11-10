@@ -35,11 +35,16 @@ This project explores a comprehensive pizza sales dataset to uncover patterns, t
 - Size preference and revenue comparison
 
 
-## 🚀 How to Run
-1. Clone the repo
-2. Open `pizza_sales_analysis.ipynb` in Jupyter
-3. Run cells sequentially to explore the analysis
+## 📸 Dashboard Preview
 
-## 📣 Author
-Loganathan — Passionate about data storytelling, visualization, and real-world analytics.
+![Dashboard](Subplots.jpg)
+
+---
+
+## 📬 Contact
+
+Feel free to connect or reach out if you're working on urban mobility, data visualization, or Python analytics!
+
+**LinkedIn:** [[loganathanr1210](https://www.linkedin.com/in/loganathanr1210)]  
+**GitHub:** [[LoganathanR03](https://github.com/LoganathanR03/)]
 
